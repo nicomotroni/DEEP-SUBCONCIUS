@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcell.aecastro\\Documents\\DEEP-SUBCONCIUS\\DeepSubconcius\\DeepSubconciusClass\\DeepSubconciusClass.csproj": {}
+    "C:\\Users\\nicole.nctipola\\Documents\\GitHub\\DEEP-SUBCONCIUS\\DeepSubconciusClass\\DeepSubconciusClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcell.aecastro\\Documents\\DEEP-SUBCONCIUS\\DeepSubconcius\\DeepSubconciusClass\\DeepSubconciusClass.csproj": {
+    "C:\\Users\\nicole.nctipola\\Documents\\GitHub\\DEEP-SUBCONCIUS\\DeepSubconciusClass\\DeepSubconciusClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcell.aecastro\\Documents\\DEEP-SUBCONCIUS\\DeepSubconcius\\DeepSubconciusClass\\DeepSubconciusClass.csproj",
+        "projectUniqueName": "C:\\Users\\nicole.nctipola\\Documents\\GitHub\\DEEP-SUBCONCIUS\\DeepSubconciusClass\\DeepSubconciusClass.csproj",
         "projectName": "DeepSubconciusClass",
-        "projectPath": "C:\\Users\\marcell.aecastro\\Documents\\DEEP-SUBCONCIUS\\DeepSubconcius\\DeepSubconciusClass\\DeepSubconciusClass.csproj",
-        "packagesPath": "C:\\Users\\marcell.aecastro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcell.aecastro\\Documents\\DEEP-SUBCONCIUS\\DeepSubconcius\\DeepSubconciusClass\\obj\\",
+        "projectPath": "C:\\Users\\nicole.nctipola\\Documents\\GitHub\\DEEP-SUBCONCIUS\\DeepSubconciusClass\\DeepSubconciusClass.csproj",
+        "packagesPath": "C:\\Users\\nicole.nctipola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicole.nctipola\\Documents\\GitHub\\DEEP-SUBCONCIUS\\DeepSubconciusClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\marcell.aecastro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nicole.nctipola\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

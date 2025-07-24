@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeepSubconciusDesk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+226f14e4f57fd7906a87a1882193a66ab5af5e01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b4d374b1418f55ebb75b0894c82cdfee8ce5f72")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeepSubconciusDesk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeepSubconciusDesk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

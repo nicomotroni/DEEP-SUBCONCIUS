@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeepSubconciusClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f812c8919e9ef8720b9fa4fd28d0462e91975c96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b4d374b1418f55ebb75b0894c82cdfee8ce5f72")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeepSubconciusClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeepSubconciusClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,13 @@
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\bin\Debug\net8.0\DeepSubconciusClass.deps.json
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\bin\Debug\net8.0\DeepSubconciusClass.dll
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\bin\Debug\net8.0\DeepSubconciusClass.pdb
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.csproj.AssemblyReference.cache
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.AssemblyInfoInputs.cache
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.AssemblyInfo.cs
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.csproj.CoreCompileInputs.cache
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.sourcelink.json
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.dll
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\refint\DeepSubconciusClass.dll
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.pdb
+C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\ref\DeepSubconciusClass.dll

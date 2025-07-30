@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nicole.nctipola\\Documents\\GitHub\\DEEP-SUBCONCIUS\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\nicole.nctipola\\documents\\github\\deep-subconcius\\deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\nicole.nctipola\\documents\\github\\deep-subconcius\\deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusdesk\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusdesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\nicole.nctipola\\documents\\github\\deep-subconcius\\deepsubconciusdesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78F177CA-BF41-4D88-B30F-F97CABEC1436}|DeepSubconciusClass\\DeepSubconciusClass.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusclass\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F177CA-BF41-4D88-B30F-F97CABEC1436}|DeepSubconciusClass\\DeepSubconciusClass.csproj|solutionrelative:deepsubconciusclass\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +38,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -42,25 +62,76 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLogin.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmLogin.cs [Projeto]",
+              "RelativeToolTip": "DeepSubconciusDesk\\FrmLogin.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:28:17.479Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "DeepSubconciusDesk\\FrmLogin.Designer.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAjwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:27:55.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmLogin.cs",
+              "RelativeToolTip": "DeepSubconciusDesk\\FrmLogin.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAtwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T21:47:09.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusClass\\Usuario.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusClass\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusClass\\Usuario.cs",
+              "RelativeToolTip": "DeepSubconciusClass\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T21:31:18.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\Documents\\GitHub\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\Program.cs",
               "RelativeDocumentMoniker": "DeepSubconciusDesk\\Program.cs",
-              "ToolTip": "C:\\Users\\nicole.nctipola\\Documents\\GitHub\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\Program.cs",
               "RelativeToolTip": "DeepSubconciusDesk\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T11:46:58.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "FrmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\Documents\\GitHub\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\nicole.nctipola\\Documents\\GitHub\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmPrincipal.cs*",
-              "RelativeToolTip": "DeepSubconciusDesk\\FrmPrincipal.cs*",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmPrincipal.cs",
+              "RelativeToolTip": "DeepSubconciusDesk\\FrmPrincipal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T11:46:55.654Z",
@@ -68,12 +139,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmPrincipal.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\Documents\\GitHub\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\nicole.nctipola\\Documents\\GitHub\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmPrincipal.cs [Projeto]*",
-              "RelativeToolTip": "DeepSubconciusDesk\\FrmPrincipal.cs [Projeto]*",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmPrincipal.cs [Projeto]",
+              "RelativeToolTip": "DeepSubconciusDesk\\FrmPrincipal.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T11:46:15.879Z",
               "EditorCaption": " [Projeto]"

@@ -11,16 +11,3 @@ C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\ob
 C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\refint\DeepSubconciusClass.dll
 C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.pdb
 C:\Users\nicole.nctipola\Documents\GitHub\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\ref\DeepSubconciusClass.dll
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\bin\Debug\net8.0\DeepSubconciusClass.deps.json
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\bin\Debug\net8.0\DeepSubconciusClass.dll
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\bin\Debug\net8.0\DeepSubconciusClass.pdb
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.csproj.AssemblyReference.cache
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.AssemblyInfoInputs.cache
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.AssemblyInfo.cs
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.csproj.CoreCompileInputs.cache
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.sourcelink.json
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.dll
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\refint\DeepSubconciusClass.dll
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\DeepSubconciusClass.pdb
-C:\Users\Administrador\source\repos\nicomotroni\DEEP-SUBCONCIUS\DeepSubconciusClass\obj\Debug\net8.0\ref\DeepSubconciusClass.dll

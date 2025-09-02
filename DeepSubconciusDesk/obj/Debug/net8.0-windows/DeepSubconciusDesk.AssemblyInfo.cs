@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeepSubconciusDesk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+226f14e4f57fd7906a87a1882193a66ab5af5e01")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3264f7e3a52ede9bb207837d2c466338754cd36")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("DeepSubconciusDesk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeepSubconciusDesk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

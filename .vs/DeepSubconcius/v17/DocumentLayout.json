@@ -1,34 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\",
+  "WorkspaceRootPath": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\deepsubconciusdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\deepsubconciusdesk\\frmcadastrodeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmcadastrodeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\deepsubconciusdesk\\formatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\formatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\nicole.nctipola\\source\\repos\\deep-subconcius-ny\\deepsubconciusdesk\\formatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\formatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\nicole.nctipola\\source\\repos\\deep-subconcius-ny\\deepsubconciusdesk\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F177CA-BF41-4D88-B30F-F97CABEC1436}|DeepSubconciusClass\\DeepSubconciusClass.csproj|c:\\users\\nicole.nctipola\\source\\repos\\deep-subconcius-ny\\deepsubconciusclass\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F177CA-BF41-4D88-B30F-F97CABEC1436}|DeepSubconciusClass\\DeepSubconciusClass.csproj|solutionrelative:deepsubconciusclass\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\deepsubconciusdesk\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F177CA-BF41-4D88-B30F-F97CABEC1436}|DeepSubconciusClass\\DeepSubconciusClass.csproj|c:\\users\\nicole.nctipola\\source\\repos\\deep-subconcius-ny\\deepsubconciusclass\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F177CA-BF41-4D88-B30F-F97CABEC1436}|DeepSubconciusClass\\DeepSubconciusClass.csproj|solutionrelative:deepsubconciusclass\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\nicole.nctipola\\source\\repos\\deep-subconcius-ny\\deepsubconciusdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusdesk\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\nicole.nctipola\\source\\repos\\deep-subconcius-ny\\deepsubconciusdesk\\frmcadastrodeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmcadastrodeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusdesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\nicole.nctipola\\source\\repos\\deep-subconcius-ny\\deepsubconciusdesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\nicole.nctipola\\source\\repos\\deep-subconcius-ny\\deepsubconciusdesk\\frmcadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmcadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78F177CA-BF41-4D88-B30F-F97CABEC1436}|DeepSubconciusClass\\DeepSubconciusClass.csproj|c:\\users\\administrador\\source\\repos\\nicomotroni\\deep-subconcius\\deepsubconciusclass\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78F177CA-BF41-4D88-B30F-F97CABEC1436}|DeepSubconciusClass\\DeepSubconciusClass.csproj|solutionrelative:deepsubconciusclass\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\nicole.nctipola\\source\\repos\\deep-subconcius-ny\\deepsubconciusdesk\\frmcadastrodeclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmcadastrodeclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\nicole.nctipola\\source\\repos\\deep-subconcius-ny\\deepsubconciusdesk\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|c:\\users\\nicole.nctipola\\source\\repos\\deep-subconcius-ny\\deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EFAC75-8382-48E7-88ED-8F1F4A0514E1}|DeepSubconciusDesk\\DeepSubconciusDesk.csproj|solutionrelative:deepsubconciusdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +74,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusClass\\Cliente.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusClass\\Cliente.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusClass\\Cliente.cs",
+              "RelativeToolTip": "DeepSubconciusClass\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:46:25.434Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -61,12 +102,54 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "FormAtividade.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FormAtividade.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\FormAtividade.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FormAtividade.cs",
+              "RelativeToolTip": "DeepSubconciusDesk\\FormAtividade.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:30:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FrmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FrmPrincipal.Designer.cs",
+              "RelativeToolTip": "DeepSubconciusDesk\\FrmPrincipal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:30:25.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCadastroDeClientes.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\frmCadastroDeClientes.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\frmCadastroDeClientes.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\frmCadastroDeClientes.cs [Projeto]",
+              "RelativeToolTip": "DeepSubconciusDesk\\frmCadastroDeClientes.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:24:46.72Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FrmLogin.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FrmLogin.cs",
               "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmLogin.cs [Projeto]",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FrmLogin.cs [Projeto]",
               "RelativeToolTip": "DeepSubconciusDesk\\FrmLogin.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T00:28:17.479Z",
@@ -74,80 +157,136 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FrmPrincipal.cs [Projeto]",
+              "RelativeToolTip": "DeepSubconciusDesk\\FrmPrincipal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:46:15.879Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FormAtividade.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FormAtividade.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\FormAtividade.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FormAtividade.cs [Projeto]",
+              "RelativeToolTip": "DeepSubconciusDesk\\FormAtividade.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:10:24.505Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\frmCadastro.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\frmCadastro.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\frmCadastro.cs [Projeto]",
+              "RelativeToolTip": "DeepSubconciusDesk\\frmCadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:27:07.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusClass\\Usuario.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusClass\\Usuario.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusClass\\Usuario.cs",
+              "RelativeToolTip": "DeepSubconciusClass\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T21:31:18.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FrmLogin.cs",
+              "RelativeToolTip": "DeepSubconciusDesk\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T21:47:09.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmCadastroDeClientes.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\frmCadastroDeClientes.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\frmCadastroDeClientes.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\frmCadastroDeClientes.cs",
+              "RelativeToolTip": "DeepSubconciusDesk\\frmCadastroDeClientes.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:02:14.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\Program.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\Program.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\Program.cs",
+              "RelativeToolTip": "DeepSubconciusDesk\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:46:58.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmCadastro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\frmCadastro.Designer.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\frmCadastro.Designer.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\frmCadastro.Designer.cs",
+              "RelativeToolTip": "DeepSubconciusDesk\\frmCadastro.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAALAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:27:13.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmCadastroDeClientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\frmCadastroDeClientes.Designer.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\frmCadastroDeClientes.Designer.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\frmCadastroDeClientes.Designer.cs",
+              "RelativeToolTip": "DeepSubconciusDesk\\frmCadastroDeClientes.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAMBkwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:24:59.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FrmPrincipal.cs",
+              "RelativeToolTip": "DeepSubconciusDesk\\FrmPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:46:55.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "FrmLogin.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FrmLogin.Designer.cs",
               "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmLogin.Designer.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\nicole.nctipola\\source\\repos\\DEEP-SUBCONCIUS-NY\\DeepSubconciusDesk\\FrmLogin.Designer.cs",
               "RelativeToolTip": "DeepSubconciusDesk\\FrmLogin.Designer.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAjwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T00:27:55.87Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmLogin.cs",
-              "RelativeToolTip": "DeepSubconciusDesk\\FrmLogin.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAtwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T21:47:09.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusClass\\Usuario.cs",
-              "RelativeDocumentMoniker": "DeepSubconciusClass\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusClass\\Usuario.cs",
-              "RelativeToolTip": "DeepSubconciusClass\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T21:31:18.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\Program.cs",
-              "RelativeDocumentMoniker": "DeepSubconciusDesk\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\Program.cs",
-              "RelativeToolTip": "DeepSubconciusDesk\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T11:46:58.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmPrincipal.cs",
-              "RelativeToolTip": "DeepSubconciusDesk\\FrmPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T11:46:55.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmPrincipal.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "DeepSubconciusDesk\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\nicomotroni\\DEEP-SUBCONCIUS\\DeepSubconciusDesk\\FrmPrincipal.cs [Projeto]",
-              "RelativeToolTip": "DeepSubconciusDesk\\FrmPrincipal.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T11:46:15.879Z",
-              "EditorCaption": " [Projeto]"
             }
           ]
         }
